@@ -1,2 +1,2 @@
 # Python_Projects
-Projects developed using python during my undergrad
+Fun Projects developed in python
